@@ -15,7 +15,6 @@
     "bluebird": "latest",
     "request": "latest",
     "request-promise": "latest",
-    "lru-cache": "latest",
     "node-bitbankcc": "1.0.1",
     "async": "latest"
   },
